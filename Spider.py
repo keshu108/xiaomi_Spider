@@ -68,4 +68,4 @@ if __name__ == '__main__':
     spider = Spider()
     spider.run()  # 运行爬虫
 
-
+#半成品，爬取的数据挤在一行单元格，晚些时候试用csv做中转
